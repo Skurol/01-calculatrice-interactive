@@ -1,17 +1,17 @@
-# 🧮 Calculatrice Interactive
+# Calculatrice Interactive
 
 Calculatrice en ligne de commande développée en C avec menu interactif et gestion complète des erreurs.
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
-- ✅ Quatre opérations arithmétiques : Addition, Soustraction, Multiplication, Division
-- ✅ Support des nombres entiers et décimaux (float)
-- ✅ Validation automatique des entrées utilisateur
-- ✅ Gestion intelligente de la division par zéro
-- ✅ Menu interactif avec boucle continue
-- ✅ Messages d'erreur clairs et guidage utilisateur
+-  Quatre opérations arithmétiques : Addition, Soustraction, Multiplication, Division
+-  Support des nombres entiers et décimaux (float)
+-  Validation automatique des entrées utilisateur
+-  Gestion intelligente de la division par zéro
+-  Menu interactif avec boucle continue
+-  Messages d'erreur clairs et guidage utilisateur
 
-## 🚀 Installation et utilisation
+## Installation et utilisation
 
 ### Prérequis
 - Compilateur C (GCC recommandé)
@@ -34,7 +34,7 @@ gcc main.c -o calculatrice
 calculatrice.exe
 ```
 
-## 📸 Exemple d'utilisation
+##  Exemple d'utilisation
 ```
 === CALCULATRICE ===
 1. Addition
@@ -52,7 +52,7 @@ Impeccable, laisse moi calculer maintenant...
 Le resultat de ton addition est de 12.80
 ```
 
-## 🎓 Compétences techniques démontrées
+##  Compétences techniques démontrées
 
 - **Variables** : Utilisation de types `int` et `float`
 - **Structures de contrôle** : `if/else`, `while`, validation conditionnelle
@@ -69,7 +69,7 @@ main.c
 └── Gestion d'erreurs spécifique par opération
 ```
 
-## 📝 Améliorations futures
+##  Améliorations futures
 
 - [ ] Ajout d'opérations avancées (puissance, racine carrée, modulo)
 - [ ] Historique des calculs
@@ -77,7 +77,7 @@ main.c
 - [ ] Mode calculatrice scientifique
 - [ ] Interface colorée avec ANSI codes
 
-## 📚 Contexte d'apprentissage
+##  Contexte d'apprentissage
 
 Ce projet a été développé dans le cadre de mon apprentissage du langage C. Il représente ma maîtrise des concepts fondamentaux de la programmation procédurale.
 
